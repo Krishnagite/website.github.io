@@ -4,7 +4,11 @@ A responsive, single-page crop monitoring dashboard built with HTML, CSS, and va
 
 ## Run locally
 
-No build tools or dependencies are required. Open `website.html` in a browser, or serve this folder with any static file server.
+No build tools or dependencies are required. Open `index.html` in a browser, or serve this folder with any static file server.
+
+## Deploy with GitHub Pages
+
+In the repository's **Settings > Pages**, choose **Deploy from a branch**, select the repository's default branch, and set the folder to `/(root)`. The site will use `index.html` as its homepage.
 
 ## Notes
 
